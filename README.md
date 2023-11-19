@@ -9,27 +9,6 @@ The neural network consists of one hidden layer and uses the sigmoid activation 
 ## Files
 
 - **neural_network.cu**: The main CUDA C++ source file containing the neural network implementation.
-  
-## Usage
-
-1. Clone the repository to your local machine:
-
-   ```bash
-   git clone https://github.com/yourusername/your-repository.git
-   cd your-repository
-   ```
-
-2. Compile the code using NVCC:
-
-   ```bash
-   nvcc -o your_executable_name neural_network.cu -lcudart
-   ```
-
-3. Run the executable:
-
-   ```bash
-   ./your_executable_name
-   ```
 
 ## Dependencies
 
